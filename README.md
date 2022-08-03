@@ -2,10 +2,15 @@
 This repository contains the files and scripts described in "DRdriver: identifying drug resistance driver genes using individual-specific gene regulatory network".
 
 differential_mutation.r: The script for identifying differential mutations.
+
 differential_expression.r: The script for identifying differential expressed genes.
+
 specific_network.r: The script for constructing individual-specific network.
+
 genetic_algorithm.r: The pipline for genetic algorithm used in this study.
+
 DRdriver: The main script for identifying drug resistance driver genes.
+
 
 Taking the condition of LGG_Temezolomide as an example:
 
