@@ -20,8 +20,8 @@ sensitive_mutation.txt and resistant_mutation.txt provide the mutation informati
 
 sensitive_exp.txt and resistant_exp.txt provide the expression profiles for the condition. Before the users run the script of differential_expression.r, they must load these two files first.
 
-GRN.txt: The file contains gene regulatory network. This file must load when the users run the script specific_network.r. Additionally, differential_mutation.r and differential_expression.r should be loaded before running specific_network.r.
+GRN.txt: The file contains gene regulatory network. This file must be loaded when the users run the script specific_network.r. Additionally, differential_mutation.r and differential_expression.r should be loaded before running specific_network.r, too.
 
-After loading all files and scripts provided, users can provide the sample ID to get the driver genes by run DRdriver.r.
+After loading all files and scripts provided, users can provide the sample ID to get the driver genes by running DRdriver.r.
 
-Since there were several random parameters in genetic algorithm, the results of different run of the script might not be the same. But the similarity of them almost over 80%.
+Since there were several random parameters in genetic algorithm, the results of different runs of the script might not be the same. But the similarity of them almost over 80%.
