@@ -9,7 +9,7 @@ specific_network.r: The script for constructing individual-specific network.
 
 genetic_algorithm.r: The pipeline for genetic algorithm used in this study.
 
-DRdriver: The main script for identifying drug resistance driver genes.
+DRdriver.r: The main script for identifying drug resistance driver genes.
 
 
 Taking the condition of LGG_Temezolomide as an example:
