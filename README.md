@@ -3,9 +3,9 @@ This repository contains the files and scripts described in "DRdriver: identifyi
 
 DRdriver.r: The main function for identifying drug resistance driver genes.
 
-differential_mutation.r: The function for identifying differential mutations.
-
 differential_exp.r: The function for identifying DEGs.
+
+differential_mutation.r: The function for identifying differential mutations.
 
 specific_network.r: The function for constructing individual-specific network.
 
