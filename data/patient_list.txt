@@ -1,650 +1,271 @@
-condition	patient	type
-BLCA_Cisplatin	TCGA-YC-A89H	sensitive
-BLCA_Cisplatin	TCGA-FD-A43U	sensitive
-BLCA_Cisplatin	TCGA-K4-AAQO	sensitive
-BLCA_Cisplatin	TCGA-G2-AA3D	sensitive
-BLCA_Cisplatin	TCGA-FD-A3B4	sensitive
-BLCA_Cisplatin	TCGA-FD-A43S	sensitive
-BLCA_Cisplatin	TCGA-G2-AA3F	sensitive
-BLCA_Cisplatin	TCGA-SY-A9G5	sensitive
-BLCA_Cisplatin	TCGA-E5-A2PC	sensitive
-BLCA_Cisplatin	TCGA-ZF-AA51	sensitive
-BLCA_Cisplatin	TCGA-DK-A6B6	sensitive
-BLCA_Cisplatin	TCGA-XF-AAMR	sensitive
-BLCA_Cisplatin	TCGA-XF-A9T5	sensitive
-BLCA_Cisplatin	TCGA-XF-AAN7	sensitive
-BLCA_Cisplatin	TCGA-XF-AAN3	sensitive
-BLCA_Cisplatin	TCGA-G2-A2EC	sensitive
-BLCA_Cisplatin	TCGA-FD-A5C1	sensitive
-BLCA_Cisplatin	TCGA-FJ-A3Z7	sensitive
-BLCA_Cisplatin	TCGA-DK-AA6U	sensitive
-BLCA_Cisplatin	TCGA-DK-A3WY	sensitive
-BLCA_Cisplatin	TCGA-DK-A1AC	sensitive
-BLCA_Cisplatin	TCGA-DK-A6B5	sensitive
-BLCA_Cisplatin	TCGA-XF-A9T4	sensitive
-BLCA_Cisplatin	TCGA-ZF-AA53	sensitive
-BLCA_Cisplatin	TCGA-ZF-AA58	sensitive
-BLCA_Cisplatin	TCGA-DK-AA76	sensitive
-BLCA_Cisplatin	TCGA-DK-AA6M	sensitive
-BLCA_Cisplatin	TCGA-UY-A8OB	sensitive
-BLCA_Cisplatin	TCGA-XF-AAME	sensitive
-BLCA_Cisplatin	TCGA-G2-A2EF	sensitive
-BLCA_Cisplatin	TCGA-FD-A5BS	sensitive
-BLCA_Cisplatin	TCGA-XF-AAN0	sensitive
-BLCA_Cisplatin	TCGA-FJ-A3Z9	sensitive
-BLCA_Cisplatin	TCGA-XF-AAMG	sensitive
-BLCA_Cisplatin	TCGA-DK-A3WW	sensitive
-BLCA_Cisplatin	TCGA-XF-AAN5	sensitive
-BLCA_Cisplatin	TCGA-GC-A3YS	sensitive
-BLCA_Cisplatin	TCGA-CU-A3YL	sensitive
-BLCA_Cisplatin	TCGA-XF-A9SZ	sensitive
-BLCA_Cisplatin	TCGA-LT-A5Z6	sensitive
-BLCA_Cisplatin	TCGA-FD-A3SQ	resistant
-BLCA_Cisplatin	TCGA-FD-A3SJ	resistant
-BLCA_Cisplatin	TCGA-FD-A3SO	resistant
-BLCA_Cisplatin	TCGA-G2-AA3C	resistant
-BLCA_Cisplatin	TCGA-DK-AA6P	resistant
-BLCA_Cisplatin	TCGA-BT-A20N	resistant
-BLCA_Cisplatin	TCGA-DK-A3WX	resistant
-BLCA_Cisplatin	TCGA-FJ-A871	resistant
-BLCA_Cisplatin	TCGA-G2-A2EJ	resistant
-BLCA_Cisplatin	TCGA-DK-A3IV	resistant
-BLCA_Cisplatin	TCGA-GV-A40E	resistant
-BLCA_Cisplatin	TCGA-DK-A1A7	resistant
-BLCA_Cisplatin	TCGA-XF-A9SV	resistant
-BLCA_Cisplatin	TCGA-DK-AA6S	resistant
-BLCA_Cisplatin	TCGA-G2-A3IB	resistant
-BLCA_Cisplatin	TCGA-G2-A2EK	resistant
-BLCA_Cisplatin	TCGA-ZF-AA5H	resistant
-BLCA_Cisplatin	TCGA-XF-A9SU	resistant
-BLCA_Cisplatin	TCGA-G2-A3IE	resistant
-BLCA_Cisplatin	TCGA-UY-A78L	resistant
-BLCA_Gemcitabine	TCGA-FD-A3B4	sensitive
-BLCA_Gemcitabine	TCGA-K4-AAQO	sensitive
-BLCA_Gemcitabine	TCGA-SY-A9G5	sensitive
-BLCA_Gemcitabine	TCGA-FD-A43S	sensitive
-BLCA_Gemcitabine	TCGA-FD-A43U	sensitive
-BLCA_Gemcitabine	TCGA-DK-A6B6	sensitive
-BLCA_Gemcitabine	TCGA-DK-A3WY	sensitive
-BLCA_Gemcitabine	TCGA-FJ-A3Z9	sensitive
-BLCA_Gemcitabine	TCGA-DK-A3WW	sensitive
-BLCA_Gemcitabine	TCGA-DK-AA6M	sensitive
-BLCA_Gemcitabine	TCGA-XF-AAN0	sensitive
-BLCA_Gemcitabine	TCGA-XF-AAN5	sensitive
-BLCA_Gemcitabine	TCGA-CU-A3YL	sensitive
-BLCA_Gemcitabine	TCGA-KQ-A41P	sensitive
-BLCA_Gemcitabine	TCGA-XF-AAN7	sensitive
-BLCA_Gemcitabine	TCGA-DK-A6B5	sensitive
-BLCA_Gemcitabine	TCGA-FJ-A3Z7	sensitive
-BLCA_Gemcitabine	TCGA-XF-AAME	sensitive
-BLCA_Gemcitabine	TCGA-DK-AA6T	sensitive
-BLCA_Gemcitabine	TCGA-XF-A9SZ	sensitive
-BLCA_Gemcitabine	TCGA-DK-AA6U	sensitive
-BLCA_Gemcitabine	TCGA-XF-AAMJ	sensitive
-BLCA_Gemcitabine	TCGA-FD-A5C1	sensitive
-BLCA_Gemcitabine	TCGA-XF-AAMR	sensitive
-BLCA_Gemcitabine	TCGA-LT-A5Z6	sensitive
-BLCA_Gemcitabine	TCGA-XF-AAN3	sensitive
-BLCA_Gemcitabine	TCGA-G2-A3IE	sensitive
-BLCA_Gemcitabine	TCGA-XF-A9T4	sensitive
-BLCA_Gemcitabine	TCGA-ZF-AA51	sensitive
-BLCA_Gemcitabine	TCGA-XF-AAMG	sensitive
-BLCA_Gemcitabine	TCGA-XF-A9T5	sensitive
-BLCA_Gemcitabine	TCGA-FD-A6TC	sensitive
-BLCA_Gemcitabine	TCGA-ZF-AA58	sensitive
-BLCA_Gemcitabine	TCGA-FD-A5BS	sensitive
-BLCA_Gemcitabine	TCGA-UY-A8OB	sensitive
-BLCA_Gemcitabine	TCGA-ZF-AA53	sensitive
-BLCA_Gemcitabine	TCGA-GC-A3YS	sensitive
-BLCA_Gemcitabine	TCGA-XF-A9SK	sensitive
-BLCA_Gemcitabine	TCGA-GV-A3JW	sensitive
-BLCA_Gemcitabine	TCGA-XF-AAMY	sensitive
-BLCA_Gemcitabine	TCGA-DK-AA76	sensitive
-BLCA_Gemcitabine	TCGA-BT-A42E	sensitive
-BLCA_Gemcitabine	TCGA-YC-A89H	sensitive
-BLCA_Gemcitabine	TCGA-G2-AA3C	resistant
-BLCA_Gemcitabine	TCGA-FD-A3SQ	resistant
-BLCA_Gemcitabine	TCGA-K4-A83P	resistant
-BLCA_Gemcitabine	TCGA-FD-A3SJ	resistant
-BLCA_Gemcitabine	TCGA-XF-A9SV	resistant
-BLCA_Gemcitabine	TCGA-FD-A3SO	resistant
-BLCA_Gemcitabine	TCGA-XF-A9SU	resistant
-BLCA_Gemcitabine	TCGA-DK-A3IV	resistant
-BLCA_Gemcitabine	TCGA-DK-A6B2	resistant
-BLCA_Gemcitabine	TCGA-GV-A3QI	resistant
-BLCA_Gemcitabine	TCGA-GU-A42R	resistant
-BLCA_Gemcitabine	TCGA-FJ-A871	resistant
-BLCA_Gemcitabine	TCGA-DK-A3IQ	resistant
-BLCA_Gemcitabine	TCGA-FD-A62S	resistant
-BLCA_Gemcitabine	TCGA-GV-A3QH	resistant
-BLCA_Gemcitabine	TCGA-DK-AA6R	resistant
-BLCA_Gemcitabine	TCGA-DK-AA6W	resistant
-BLCA_Gemcitabine	TCGA-UY-A78L	resistant
-BLCA_Gemcitabine	TCGA-DK-A3WX	resistant
-BLCA_Gemcitabine	TCGA-XF-A9SX	resistant
-BLCA_Gemcitabine	TCGA-DK-A3IU	resistant
-BLCA_Gemcitabine	TCGA-XF-A9SY	resistant
-BLCA_Gemcitabine	TCGA-ZF-AA5H	resistant
-BLCA_Gemcitabine	TCGA-GV-A3QF	resistant
-BLCA_Gemcitabine	TCGA-DK-AA6P	resistant
-BLCA_Gemcitabine	TCGA-BT-A20N	resistant
-BLCA_Gemcitabine	TCGA-BT-A20T	resistant
-BLCA_Gemcitabine	TCGA-GV-A40E	resistant
-COAD_Fluorouracil	TCGA-AA-A01R	sensitive
-COAD_Fluorouracil	TCGA-AA-3869	sensitive
-COAD_Fluorouracil	TCGA-AA-3560	sensitive
-COAD_Fluorouracil	TCGA-AA-A00F	sensitive
-COAD_Fluorouracil	TCGA-AA-A010	sensitive
-COAD_Fluorouracil	TCGA-AA-3841	sensitive
-COAD_Fluorouracil	TCGA-AA-A02F	sensitive
-COAD_Fluorouracil	TCGA-AA-3713	sensitive
-COAD_Fluorouracil	TCGA-AA-3562	sensitive
-COAD_Fluorouracil	TCGA-AA-3976	sensitive
-COAD_Fluorouracil	TCGA-AA-3971	sensitive
-COAD_Fluorouracil	TCGA-CA-6717	sensitive
-COAD_Fluorouracil	TCGA-AA-3542	sensitive
-COAD_Fluorouracil	TCGA-F4-6856	sensitive
-COAD_Fluorouracil	TCGA-AA-3548	sensitive
-COAD_Fluorouracil	TCGA-F4-6806	sensitive
-COAD_Fluorouracil	TCGA-AA-3860	sensitive
-COAD_Fluorouracil	TCGA-AA-3967	sensitive
-COAD_Fluorouracil	TCGA-AA-A00U	sensitive
-COAD_Fluorouracil	TCGA-AA-3678	sensitive
-COAD_Fluorouracil	TCGA-AA-A01K	sensitive
-COAD_Fluorouracil	TCGA-CA-6716	sensitive
-COAD_Fluorouracil	TCGA-CA-5255	sensitive
-COAD_Fluorouracil	TCGA-AA-3494	sensitive
-COAD_Fluorouracil	TCGA-CA-5796	sensitive
-COAD_Fluorouracil	TCGA-AA-3870	sensitive
-COAD_Fluorouracil	TCGA-CA-6715	sensitive
-COAD_Fluorouracil	TCGA-AA-3517	sensitive
-COAD_Fluorouracil	TCGA-AA-A00Q	sensitive
-COAD_Fluorouracil	TCGA-AA-A01F	sensitive
-COAD_Fluorouracil	TCGA-CA-5256	sensitive
-COAD_Fluorouracil	TCGA-F4-6569	sensitive
-COAD_Fluorouracil	TCGA-CA-5254	sensitive
-COAD_Fluorouracil	TCGA-AA-A01T	sensitive
-COAD_Fluorouracil	TCGA-AA-A00J	sensitive
-COAD_Fluorouracil	TCGA-SS-A7HO	sensitive
-COAD_Fluorouracil	TCGA-AY-A8YK	sensitive
-COAD_Fluorouracil	TCGA-AD-6965	sensitive
-COAD_Fluorouracil	TCGA-NH-A50V	sensitive
-COAD_Fluorouracil	TCGA-A6-A56B	sensitive
-COAD_Fluorouracil	TCGA-CK-4950	sensitive
-COAD_Fluorouracil	TCGA-A6-A5ZU	sensitive
-COAD_Fluorouracil	TCGA-NH-A8F7	sensitive
-COAD_Fluorouracil	TCGA-AA-3973	resistant
-COAD_Fluorouracil	TCGA-AA-3692	resistant
-COAD_Fluorouracil	TCGA-AA-A02K	resistant
-COAD_Fluorouracil	TCGA-AA-3844	resistant
-COAD_Fluorouracil	TCGA-AA-3972	resistant
-COAD_Fluorouracil	TCGA-AZ-6600	resistant
-COAD_Fluorouracil	TCGA-AZ-4682	resistant
-COAD_Fluorouracil	TCGA-AZ-6606	resistant
-COAD_Fluorouracil	TCGA-A6-A565	resistant
-COAD_Fluorouracil	TCGA-NH-A50U	resistant
-COAD_Fluorouracil	TCGA-NH-A8F8	resistant
-COAD_Fluorouracil	TCGA-NH-A6GB	resistant
-COAD_Leucovorin	TCGA-AA-3560	sensitive
-COAD_Leucovorin	TCGA-AA-3841	sensitive
-COAD_Leucovorin	TCGA-AA-A01T	sensitive
-COAD_Leucovorin	TCGA-AA-3869	sensitive
-COAD_Leucovorin	TCGA-AA-A01R	sensitive
-COAD_Leucovorin	TCGA-AA-A010	sensitive
-COAD_Leucovorin	TCGA-AA-3971	sensitive
-COAD_Leucovorin	TCGA-AA-3870	sensitive
-COAD_Leucovorin	TCGA-AA-3967	sensitive
-COAD_Leucovorin	TCGA-AA-3562	sensitive
-COAD_Leucovorin	TCGA-AA-A01K	sensitive
-COAD_Leucovorin	TCGA-AA-A00F	sensitive
-COAD_Leucovorin	TCGA-AA-3976	sensitive
-COAD_Leucovorin	TCGA-AA-3542	sensitive
-COAD_Leucovorin	TCGA-AA-3860	sensitive
-COAD_Leucovorin	TCGA-AA-A02F	sensitive
-COAD_Leucovorin	TCGA-AA-A00Q	sensitive
-COAD_Leucovorin	TCGA-AA-A01F	sensitive
-COAD_Leucovorin	TCGA-AA-3517	sensitive
-COAD_Leucovorin	TCGA-AA-3494	sensitive
-COAD_Leucovorin	TCGA-AA-3678	sensitive
-COAD_Leucovorin	TCGA-AA-3548	sensitive
-COAD_Leucovorin	TCGA-AA-A00U	sensitive
-COAD_Leucovorin	TCGA-CA-5254	sensitive
-COAD_Leucovorin	TCGA-CA-6715	sensitive
-COAD_Leucovorin	TCGA-CA-6717	sensitive
-COAD_Leucovorin	TCGA-CA-5255	sensitive
-COAD_Leucovorin	TCGA-CA-5256	sensitive
-COAD_Leucovorin	TCGA-CA-6716	sensitive
-COAD_Leucovorin	TCGA-CA-5796	sensitive
-COAD_Leucovorin	TCGA-NH-A50V	sensitive
-COAD_Leucovorin	TCGA-F4-6806	sensitive
-COAD_Leucovorin	TCGA-A6-A56B	sensitive
-COAD_Leucovorin	TCGA-F4-6856	sensitive
-COAD_Leucovorin	TCGA-SS-A7HO	sensitive
-COAD_Leucovorin	TCGA-A6-A5ZU	sensitive
-COAD_Leucovorin	TCGA-AZ-4308	sensitive
-COAD_Leucovorin	TCGA-AD-6965	sensitive
-COAD_Leucovorin	TCGA-CK-4950	sensitive
-COAD_Leucovorin	TCGA-F4-6569	sensitive
-COAD_Leucovorin	TCGA-NH-A50U	sensitive
-COAD_Leucovorin	TCGA-AA-3680	resistant
-COAD_Leucovorin	TCGA-AA-3973	resistant
-COAD_Leucovorin	TCGA-AA-3844	resistant
-COAD_Leucovorin	TCGA-AA-3692	resistant
-COAD_Leucovorin	TCGA-AZ-4682	resistant
-COAD_Leucovorin	TCGA-AA-3972	resistant
-COAD_Leucovorin	TCGA-AA-A02K	resistant
-COAD_Leucovorin	TCGA-NH-A6GB	resistant
-COAD_Leucovorin	TCGA-A6-A566	resistant
-COAD_Leucovorin	TCGA-A6-5664	resistant
-COAD_Leucovorin	TCGA-A6-A565	resistant
-COAD_Leucovorin	TCGA-AZ-6600	resistant
-COAD_Leucovorin	TCGA-A6-2671	resistant
-COAD_Leucovorin	TCGA-CM-4748	resistant
-LGG_Temozolomide	TCGA-HT-A74K	sensitive
-LGG_Temozolomide	TCGA-DB-A4XD	sensitive
-LGG_Temozolomide	TCGA-DH-A66G	sensitive
-LGG_Temozolomide	TCGA-DH-A7UR	sensitive
-LGG_Temozolomide	TCGA-HT-A5RA	sensitive
-LGG_Temozolomide	TCGA-HT-A619	sensitive
-LGG_Temozolomide	TCGA-IK-8125	sensitive
-LGG_Temozolomide	TCGA-HT-7477	sensitive
-LGG_Temozolomide	TCGA-HT-7483	sensitive
-LGG_Temozolomide	TCGA-VW-A7QS	sensitive
-LGG_Temozolomide	TCGA-HT-A61C	sensitive
-LGG_Temozolomide	TCGA-HT-8114	sensitive
-LGG_Temozolomide	TCGA-HT-7604	sensitive
-LGG_Temozolomide	TCGA-DB-A75K	sensitive
-LGG_Temozolomide	TCGA-S9-A6U1	sensitive
-LGG_Temozolomide	TCGA-P5-A5EX	sensitive
-LGG_Temozolomide	TCGA-S9-A6TX	sensitive
-LGG_Temozolomide	TCGA-FN-7833	sensitive
-LGG_Temozolomide	TCGA-DB-A4XB	resistant
-LGG_Temozolomide	TCGA-DB-A4XF	resistant
-LGG_Temozolomide	TCGA-DB-A64O	resistant
-LGG_Temozolomide	TCGA-DB-A64V	resistant
-LGG_Temozolomide	TCGA-DB-A64W	resistant
-LGG_Temozolomide	TCGA-DB-A64X	resistant
-LGG_Temozolomide	TCGA-E1-A7YK	resistant
-LGG_Temozolomide	TCGA-E1-A7YL	resistant
-LGG_Temozolomide	TCGA-DH-A7UT	resistant
-LGG_Temozolomide	TCGA-DH-A7UU	resistant
-LGG_Temozolomide	TCGA-DH-A7UV	resistant
-LGG_Temozolomide	TCGA-E1-A7YM	resistant
-LGG_Temozolomide	TCGA-FG-A70Y	resistant
-LGG_Temozolomide	TCGA-DU-A5TS	resistant
-LGG_Temozolomide	TCGA-VM-A8CF	resistant
-LGG_Temozolomide	TCGA-HT-8564	resistant
-LGG_Temozolomide	TCGA-FG-5963	resistant
-LGG_Temozolomide	TCGA-E1-A7YW	resistant
-LGG_Temozolomide	TCGA-FG-A6J3	resistant
-LGG_Temozolomide	TCGA-VV-A829	resistant
-LGG_Temozolomide	TCGA-HT-A5RC	resistant
-LGG_Temozolomide	TCGA-FG-6689	resistant
-LGG_Temozolomide	TCGA-HT-8013	resistant
-LGG_Temozolomide	TCGA-WH-A86K	resistant
-LGG_Temozolomide	TCGA-S9-A7R1	resistant
-LGG_Temozolomide	TCGA-S9-A6TS	resistant
-LGG_Temozolomide	TCGA-S9-A7R8	resistant
-LGG_Temozolomide	TCGA-S9-A6TV	resistant
-LGG_Temozolomide	TCGA-QH-A65X	resistant
-LGG_Temozolomide	TCGA-QH-A6X8	resistant
-LGG_Temozolomide	TCGA-QH-A6XC	resistant
-LGG_Temozolomide	TCGA-QH-A6X4	resistant
-LGG_Temozolomide	TCGA-DU-A5TU	resistant
-LGG_Temozolomide	TCGA-DU-A5TP	resistant
-LGG_Temozolomide	TCGA-HW-8321	resistant
-LGG_Temozolomide	TCGA-KT-A74X	resistant
-LGG_Temozolomide	TCGA-DU-8165	resistant
-LGG_Temozolomide	TCGA-DU-8166	resistant
-LGG_Temozolomide	TCGA-DU-8168	resistant
-LGG_Temozolomide	TCGA-DU-8163	resistant
-LGG_Temozolomide	TCGA-HW-A5KK	resistant
-LGG_Temozolomide	TCGA-KT-A7W1	resistant
-LGG_Temozolomide	TCGA-DU-8162	resistant
-LGG_Temozolomide	TCGA-S9-A7R4	resistant
-LGG_Temozolomide	TCGA-VM-A8C8	resistant
-LGG_Temozolomide	TCGA-DU-A76K	resistant
-LGG_Temozolomide	TCGA-S9-A89Z	resistant
-LGG_Temozolomide	TCGA-DH-A66B	resistant
-LGG_Temozolomide	TCGA-DH-A66D	resistant
-LGG_Temozolomide	TCGA-QH-A6CY	resistant
-LGG_Temozolomide	TCGA-S9-A6WN	resistant
-LGG_Temozolomide	TCGA-S9-A7J0	resistant
-LGG_Temozolomide	TCGA-S9-A7QY	resistant
-LGG_Temozolomide	TCGA-S9-A6TW	resistant
-LGG_Temozolomide	TCGA-HW-7487	resistant
-LGG_Temozolomide	TCGA-TM-A84B	resistant
-LGG_Temozolomide	TCGA-S9-A7QW	resistant
-LGG_Temozolomide	TCGA-S9-A6WM	resistant
-LGG_Temozolomide	TCGA-S9-A6WG	resistant
-LGG_Temozolomide	TCGA-TM-A84C	resistant
-LGG_Temozolomide	TCGA-S9-A6TY	resistant
-LGG_Temozolomide	TCGA-QH-A65R	resistant
-LGG_Temozolomide	TCGA-QH-A6CS	resistant
-LUAD_Carboplatin	TCGA-50-5933	sensitive
-LUAD_Carboplatin	TCGA-55-1596	sensitive
-LUAD_Carboplatin	TCGA-50-5051	sensitive
-LUAD_Carboplatin	TCGA-05-4402	sensitive
-LUAD_Carboplatin	TCGA-64-5815	sensitive
-LUAD_Carboplatin	TCGA-55-7281	sensitive
-LUAD_Carboplatin	TCGA-62-A46U	sensitive
-LUAD_Carboplatin	TCGA-55-7994	sensitive
-LUAD_Carboplatin	TCGA-55-5899	sensitive
-LUAD_Carboplatin	TCGA-55-7283	sensitive
-LUAD_Carboplatin	TCGA-49-AAR4	sensitive
-LUAD_Carboplatin	TCGA-05-4398	sensitive
-LUAD_Carboplatin	TCGA-73-7498	sensitive
-LUAD_Carboplatin	TCGA-55-A48Y	sensitive
-LUAD_Carboplatin	TCGA-55-8301	sensitive
-LUAD_Carboplatin	TCGA-50-6590	sensitive
-LUAD_Carboplatin	TCGA-73-4675	sensitive
-LUAD_Carboplatin	TCGA-97-8547	sensitive
-LUAD_Carboplatin	TCGA-62-8398	sensitive
-LUAD_Carboplatin	TCGA-55-8205	sensitive
-LUAD_Carboplatin	TCGA-93-A4JP	sensitive
-LUAD_Carboplatin	TCGA-97-8176	sensitive
-LUAD_Carboplatin	TCGA-55-A48X	sensitive
-LUAD_Carboplatin	TCGA-55-7995	sensitive
-LUAD_Carboplatin	TCGA-86-7954	sensitive
-LUAD_Carboplatin	TCGA-50-6595	resistant
-LUAD_Carboplatin	TCGA-55-6712	resistant
-LUAD_Carboplatin	TCGA-50-5066	resistant
-LUAD_Carboplatin	TCGA-73-A9RS	resistant
-LUAD_Carboplatin	TCGA-95-A4VP	resistant
-LUAD_Carboplatin	TCGA-55-6979	resistant
-LUAD_Carboplatin	TCGA-55-8615	resistant
-LUAD_Carboplatin	TCGA-55-7227	resistant
-LUAD_Carboplatin	TCGA-50-5072	resistant
-LUAD_Carboplatin	TCGA-93-A4JN	resistant
-LUAD_Carboplatin	TCGA-J2-8194	resistant
-LUAD_Carboplatin	TCGA-55-7914	resistant
-LUAD_Carboplatin	TCGA-69-7974	resistant
-LUAD_Carboplatin	TCGA-50-5055	resistant
-LUAD_Carboplatin	TCGA-53-7813	resistant
-LUAD_Carboplatin	TCGA-NJ-A7XG	resistant
-LUAD_Carboplatin	TCGA-53-7624	resistant
-LUAD_Paclitaxel	TCGA-86-8054	sensitive
-LUAD_Paclitaxel	TCGA-50-6590	sensitive
-LUAD_Paclitaxel	TCGA-55-7995	sensitive
-LUAD_Paclitaxel	TCGA-50-5933	sensitive
-LUAD_Paclitaxel	TCGA-49-AAR4	sensitive
-LUAD_Paclitaxel	TCGA-55-7994	sensitive
-LUAD_Paclitaxel	TCGA-55-7281	sensitive
-LUAD_Paclitaxel	TCGA-50-5051	sensitive
-LUAD_Paclitaxel	TCGA-55-5899	sensitive
-LUAD_Paclitaxel	TCGA-86-7954	sensitive
-LUAD_Paclitaxel	TCGA-49-AAR2	sensitive
-LUAD_Paclitaxel	TCGA-97-8547	sensitive
-LUAD_Paclitaxel	TCGA-55-1596	sensitive
-LUAD_Paclitaxel	TCGA-55-8301	sensitive
-LUAD_Paclitaxel	TCGA-50-5055	resistant
-LUAD_Paclitaxel	TCGA-73-A9RS	resistant
-LUAD_Paclitaxel	TCGA-53-7813	resistant
-LUAD_Paclitaxel	TCGA-50-5068	resistant
-LUAD_Paclitaxel	TCGA-50-5072	resistant
-LUAD_Paclitaxel	TCGA-55-8615	resistant
-LUAD_Paclitaxel	TCGA-50-5066	resistant
-LUAD_Paclitaxel	TCGA-95-A4VP	resistant
-LUAD_Paclitaxel	TCGA-55-6979	resistant
-LUAD_Paclitaxel	TCGA-55-6712	resistant
-LUAD_Paclitaxel	TCGA-50-5936	resistant
-LUAD_Pemetrexed	TCGA-73-4675	sensitive
-LUAD_Pemetrexed	TCGA-55-8505	sensitive
-LUAD_Pemetrexed	TCGA-44-A47F	sensitive
-LUAD_Pemetrexed	TCGA-97-8176	sensitive
-LUAD_Pemetrexed	TCGA-50-8459	sensitive
-LUAD_Pemetrexed	TCGA-55-8205	sensitive
-LUAD_Pemetrexed	TCGA-86-A4P8	sensitive
-LUAD_Pemetrexed	TCGA-55-7283	sensitive
-LUAD_Pemetrexed	TCGA-55-7576	sensitive
-LUAD_Pemetrexed	TCGA-55-A48X	sensitive
-LUAD_Pemetrexed	TCGA-55-A48Y	sensitive
-LUAD_Pemetrexed	TCGA-64-5815	sensitive
-LUAD_Pemetrexed	TCGA-55-8508	sensitive
-LUAD_Pemetrexed	TCGA-91-7771	sensitive
-LUAD_Pemetrexed	TCGA-73-7498	sensitive
-LUAD_Pemetrexed	TCGA-69-7973	sensitive
-LUAD_Pemetrexed	TCGA-64-5779	sensitive
-LUAD_Pemetrexed	TCGA-L9-A7SV	sensitive
-LUAD_Pemetrexed	TCGA-55-8615	resistant
-LUAD_Pemetrexed	TCGA-55-7914	resistant
-LUAD_Pemetrexed	TCGA-55-7281	resistant
-LUAD_Pemetrexed	TCGA-95-A4VK	resistant
-LUAD_Pemetrexed	TCGA-55-A48Z	resistant
-LUAD_Pemetrexed	TCGA-50-5055	resistant
-LUAD_Pemetrexed	TCGA-73-A9RS	resistant
-LUAD_Pemetrexed	TCGA-53-7624	resistant
-LUAD_Pemetrexed	TCGA-69-7974	resistant
-LUAD_Pemetrexed	TCGA-NJ-A7XG	resistant
-LUAD_Pemetrexed	TCGA-69-A59K	resistant
-PAAD_Gemcitabine	TCGA-3A-A9I5	sensitive
-PAAD_Gemcitabine	TCGA-F2-6879	sensitive
-PAAD_Gemcitabine	TCGA-3A-A9IX	sensitive
-PAAD_Gemcitabine	TCGA-IB-7885	sensitive
-PAAD_Gemcitabine	TCGA-3E-AAAZ	sensitive
-PAAD_Gemcitabine	TCGA-F2-6880	sensitive
-PAAD_Gemcitabine	TCGA-HZ-8637	sensitive
-PAAD_Gemcitabine	TCGA-FB-A78T	sensitive
-PAAD_Gemcitabine	TCGA-HZ-7923	sensitive
-PAAD_Gemcitabine	TCGA-HZ-7924	sensitive
-PAAD_Gemcitabine	TCGA-HZ-8001	sensitive
-PAAD_Gemcitabine	TCGA-HZ-7918	sensitive
-PAAD_Gemcitabine	TCGA-FB-A545	sensitive
-PAAD_Gemcitabine	TCGA-HZ-A49H	sensitive
-PAAD_Gemcitabine	TCGA-H8-A6C1	sensitive
-PAAD_Gemcitabine	TCGA-HZ-A77P	sensitive
-PAAD_Gemcitabine	TCGA-IB-7652	sensitive
-PAAD_Gemcitabine	TCGA-FB-AAQ6	sensitive
-PAAD_Gemcitabine	TCGA-Q3-A5QY	sensitive
-PAAD_Gemcitabine	TCGA-IB-A6UF	sensitive
-PAAD_Gemcitabine	TCGA-IB-8127	sensitive
-PAAD_Gemcitabine	TCGA-YB-A89D	sensitive
-PAAD_Gemcitabine	TCGA-IB-A5SS	sensitive
-PAAD_Gemcitabine	TCGA-YY-A8LH	sensitive
-PAAD_Gemcitabine	TCGA-LB-A8F3	sensitive
-PAAD_Gemcitabine	TCGA-F2-A44G	sensitive
-PAAD_Gemcitabine	TCGA-F2-A44H	sensitive
-PAAD_Gemcitabine	TCGA-FB-AAPY	sensitive
-PAAD_Gemcitabine	TCGA-S4-A8RM	sensitive
-PAAD_Gemcitabine	TCGA-2L-AAQA	resistant
-PAAD_Gemcitabine	TCGA-2L-AAQE	resistant
-PAAD_Gemcitabine	TCGA-2L-AAQI	resistant
-PAAD_Gemcitabine	TCGA-2L-AAQJ	resistant
-PAAD_Gemcitabine	TCGA-HZ-A9TJ	resistant
-PAAD_Gemcitabine	TCGA-IB-7644	resistant
-PAAD_Gemcitabine	TCGA-3A-A9I9	resistant
-PAAD_Gemcitabine	TCGA-IB-7889	resistant
-PAAD_Gemcitabine	TCGA-3A-A9IH	resistant
-PAAD_Gemcitabine	TCGA-XD-AAUG	resistant
-PAAD_Gemcitabine	TCGA-3A-A9IZ	resistant
-PAAD_Gemcitabine	TCGA-3A-A9J0	resistant
-PAAD_Gemcitabine	TCGA-HZ-8317	resistant
-PAAD_Gemcitabine	TCGA-FB-A5VM	resistant
-PAAD_Gemcitabine	TCGA-HZ-A77O	resistant
-PAAD_Gemcitabine	TCGA-IB-7891	resistant
-PAAD_Gemcitabine	TCGA-IB-A5SO	resistant
-PAAD_Gemcitabine	TCGA-HZ-A49G	resistant
-PAAD_Gemcitabine	TCGA-RB-AA9M	resistant
-PAAD_Gemcitabine	TCGA-US-A774	resistant
-PAAD_Gemcitabine	TCGA-IB-A5SP	resistant
-PAAD_Gemcitabine	TCGA-XD-AAUI	resistant
-PAAD_Gemcitabine	TCGA-IB-A7LX	resistant
-PAAD_Gemcitabine	TCGA-IB-AAUO	resistant
-PAAD_Gemcitabine	TCGA-IB-8126	resistant
-PAAD_Gemcitabine	TCGA-LB-A9Q5	resistant
-PAAD_Gemcitabine	TCGA-HV-AA8X	resistant
-PAAD_Gemcitabine	TCGA-F2-A8YN	resistant
-SARC_Docetaxel	TCGA-DX-A6B7	sensitive
-SARC_Docetaxel	TCGA-HS-A5N9	sensitive
-SARC_Docetaxel	TCGA-3B-A9HI	sensitive
-SARC_Docetaxel	TCGA-JV-A5VE	sensitive
-SARC_Docetaxel	TCGA-DX-A8BT	sensitive
-SARC_Docetaxel	TCGA-DX-A7EN	sensitive
-SARC_Docetaxel	TCGA-X2-A95T	sensitive
-SARC_Docetaxel	TCGA-PT-A8TR	sensitive
-SARC_Docetaxel	TCGA-IW-A3M4	sensitive
-SARC_Docetaxel	TCGA-KD-A5QS	sensitive
-SARC_Docetaxel	TCGA-KF-A41W	sensitive
-SARC_Docetaxel	TCGA-DX-A3U7	sensitive
-SARC_Docetaxel	TCGA-IE-A4EH	sensitive
-SARC_Docetaxel	TCGA-HB-A43Z	sensitive
-SARC_Docetaxel	TCGA-3B-A9HR	resistant
-SARC_Docetaxel	TCGA-DX-A8BV	resistant
-SARC_Docetaxel	TCGA-DX-A6YX	resistant
-SARC_Docetaxel	TCGA-K1-A3PN	resistant
-SARC_Docetaxel	TCGA-DX-A8BU	resistant
-SARC_Docetaxel	TCGA-3B-A9HL	resistant
-SARC_Docetaxel	TCGA-X9-A971	resistant
-SARC_Docetaxel	TCGA-3B-A9I0	resistant
-SARC_Docetaxel	TCGA-3B-A9HV	resistant
-SARC_Docetaxel	TCGA-X6-A8C4	resistant
-SARC_Docetaxel	TCGA-FX-A48G	resistant
-SARC_Docetaxel	TCGA-DX-A3UC	resistant
-SARC_Docetaxel	TCGA-IE-A3OV	resistant
-SARC_Docetaxel	TCGA-3B-A9HP	resistant
-SARC_Docetaxel	TCGA-DX-A3LU	resistant
-SKCM_Dacarbazine	TCGA-EB-A553	sensitive
-SKCM_Dacarbazine	TCGA-D3-A51H	sensitive
-SKCM_Dacarbazine	TCGA-EB-A3XC	sensitive
-SKCM_Dacarbazine	TCGA-EB-A6QY	sensitive
-SKCM_Dacarbazine	TCGA-EB-A57M	sensitive
-SKCM_Dacarbazine	TCGA-EB-A5SH	sensitive
-SKCM_Dacarbazine	TCGA-EB-A6QZ	sensitive
-SKCM_Dacarbazine	TCGA-EB-A5KH	sensitive
-SKCM_Dacarbazine	TCGA-EB-A5UL	sensitive
-SKCM_Dacarbazine	TCGA-EB-A3Y6	sensitive
-SKCM_Dacarbazine	TCGA-EB-A85J	sensitive
-SKCM_Dacarbazine	TCGA-W3-A825	sensitive
-SKCM_Dacarbazine	TCGA-W3-AA1O	resistant
-SKCM_Dacarbazine	TCGA-EE-A29V	resistant
-SKCM_Dacarbazine	TCGA-EE-A3JI	resistant
-SKCM_Dacarbazine	TCGA-EE-A2MD	resistant
-SKCM_Dacarbazine	TCGA-EE-A29Q	resistant
-SKCM_Dacarbazine	TCGA-EE-A2MQ	resistant
-SKCM_Dacarbazine	TCGA-EE-A185	resistant
-SKCM_Dacarbazine	TCGA-EB-A5FP	resistant
-SKCM_Dacarbazine	TCGA-GN-A8LK	resistant
-SKCM_Dacarbazine	TCGA-HR-A2OH	resistant
-SKCM_Dacarbazine	TCGA-EE-A2ML	resistant
-SKCM_Dacarbazine	TCGA-ER-A19H	resistant
-SKCM_Dacarbazine	TCGA-FS-A4F0	resistant
-SKCM_Dacarbazine	TCGA-FS-A1ZE	resistant
-STAD_Cisplatin	TCGA-BR-A4J2	sensitive
-STAD_Cisplatin	TCGA-BR-A4QM	sensitive
-STAD_Cisplatin	TCGA-CD-8530	sensitive
-STAD_Cisplatin	TCGA-CD-5804	sensitive
-STAD_Cisplatin	TCGA-CD-8535	sensitive
-STAD_Cisplatin	TCGA-CD-8529	sensitive
-STAD_Cisplatin	TCGA-CD-8525	sensitive
-STAD_Cisplatin	TCGA-CG-4305	sensitive
-STAD_Cisplatin	TCGA-CD-8531	sensitive
-STAD_Cisplatin	TCGA-B7-A5TN	sensitive
-STAD_Cisplatin	TCGA-CD-A4MH	sensitive
-STAD_Cisplatin	TCGA-CD-A4MJ	sensitive
-STAD_Cisplatin	TCGA-CD-8528	sensitive
-STAD_Cisplatin	TCGA-CD-8536	sensitive
-STAD_Cisplatin	TCGA-CD-A487	sensitive
-STAD_Cisplatin	TCGA-CD-5802	sensitive
-STAD_Cisplatin	TCGA-IN-A6RO	sensitive
-STAD_Cisplatin	TCGA-BR-6709	sensitive
-STAD_Cisplatin	TCGA-FP-7998	sensitive
-STAD_Cisplatin	TCGA-CD-8526	sensitive
-STAD_Cisplatin	TCGA-CD-A486	sensitive
-STAD_Cisplatin	TCGA-CG-4472	sensitive
-STAD_Cisplatin	TCGA-HU-A4GX	resistant
-STAD_Cisplatin	TCGA-CD-8527	resistant
-STAD_Cisplatin	TCGA-CD-8524	resistant
-STAD_Cisplatin	TCGA-BR-8371	resistant
-STAD_Cisplatin	TCGA-CG-5717	resistant
-STAD_Cisplatin	TCGA-CG-4477	resistant
-STAD_Cisplatin	TCGA-CG-5724	resistant
-STAD_Cisplatin	TCGA-VQ-A91V	resistant
-STAD_Cisplatin	TCGA-CG-5732	resistant
-STAD_Cisplatin	TCGA-D7-A747	resistant
-STAD_Cisplatin	TCGA-D7-6520	resistant
-STAD_Fluorouracil	TCGA-CD-8531	sensitive
-STAD_Fluorouracil	TCGA-CD-8525	sensitive
-STAD_Fluorouracil	TCGA-CD-A4MH	sensitive
-STAD_Fluorouracil	TCGA-CD-5802	sensitive
-STAD_Fluorouracil	TCGA-CD-8530	sensitive
-STAD_Fluorouracil	TCGA-CD-8535	sensitive
-STAD_Fluorouracil	TCGA-CD-8528	sensitive
-STAD_Fluorouracil	TCGA-CD-A4MJ	sensitive
-STAD_Fluorouracil	TCGA-KB-A93J	sensitive
-STAD_Fluorouracil	TCGA-BR-8296	sensitive
-STAD_Fluorouracil	TCGA-BR-6802	sensitive
-STAD_Fluorouracil	TCGA-CG-4305	sensitive
-STAD_Fluorouracil	TCGA-BR-8590	sensitive
-STAD_Fluorouracil	TCGA-BR-8381	sensitive
-STAD_Fluorouracil	TCGA-BR-6710	sensitive
-STAD_Fluorouracil	TCGA-BR-6709	sensitive
-STAD_Fluorouracil	TCGA-BR-8592	sensitive
-STAD_Fluorouracil	TCGA-BR-8370	sensitive
-STAD_Fluorouracil	TCGA-BR-8380	sensitive
-STAD_Fluorouracil	TCGA-BR-6706	sensitive
-STAD_Fluorouracil	TCGA-BR-8372	sensitive
-STAD_Fluorouracil	TCGA-BR-A4QL	sensitive
-STAD_Fluorouracil	TCGA-BR-8291	sensitive
-STAD_Fluorouracil	TCGA-BR-A4QM	sensitive
-STAD_Fluorouracil	TCGA-BR-8373	sensitive
-STAD_Fluorouracil	TCGA-BR-6457	sensitive
-STAD_Fluorouracil	TCGA-BR-6458	sensitive
-STAD_Fluorouracil	TCGA-CG-4460	sensitive
-STAD_Fluorouracil	TCGA-BR-8690	sensitive
-STAD_Fluorouracil	TCGA-CG-4444	sensitive
-STAD_Fluorouracil	TCGA-D7-8579	sensitive
-STAD_Fluorouracil	TCGA-HU-8243	sensitive
-STAD_Fluorouracil	TCGA-FP-7829	sensitive
-STAD_Fluorouracil	TCGA-FP-7998	sensitive
-STAD_Fluorouracil	TCGA-FP-A9TM	sensitive
-STAD_Fluorouracil	TCGA-FP-8209	sensitive
-STAD_Fluorouracil	TCGA-FP-A4BE	sensitive
-STAD_Fluorouracil	TCGA-F1-A448	sensitive
-STAD_Fluorouracil	TCGA-HJ-7597	sensitive
-STAD_Fluorouracil	TCGA-3M-AB46	sensitive
-STAD_Fluorouracil	TCGA-VQ-A91W	sensitive
-STAD_Fluorouracil	TCGA-VQ-A91Z	sensitive
-STAD_Fluorouracil	TCGA-MX-A666	sensitive
-STAD_Fluorouracil	TCGA-VQ-AA68	sensitive
-STAD_Fluorouracil	TCGA-VQ-AA6B	sensitive
-STAD_Fluorouracil	TCGA-VQ-A8PU	sensitive
-STAD_Fluorouracil	TCGA-VQ-A8DT	sensitive
-STAD_Fluorouracil	TCGA-VQ-A8E2	sensitive
-STAD_Fluorouracil	TCGA-VQ-A8P3	sensitive
-STAD_Fluorouracil	TCGA-VQ-A8PB	sensitive
-STAD_Fluorouracil	TCGA-VQ-A8PT	sensitive
-STAD_Fluorouracil	TCGA-VQ-A91E	sensitive
-STAD_Fluorouracil	TCGA-VQ-A8PY	sensitive
-STAD_Fluorouracil	TCGA-VQ-A8PZ	sensitive
-STAD_Fluorouracil	TCGA-VQ-A91Q	sensitive
-STAD_Fluorouracil	TCGA-VQ-A91S	sensitive
-STAD_Fluorouracil	TCGA-VQ-A91K	sensitive
-STAD_Fluorouracil	TCGA-VQ-AA64	sensitive
-STAD_Fluorouracil	TCGA-KB-A6F7	sensitive
-STAD_Fluorouracil	TCGA-VQ-AA6D	sensitive
-STAD_Fluorouracil	TCGA-BR-8371	resistant
-STAD_Fluorouracil	TCGA-CG-4477	resistant
-STAD_Fluorouracil	TCGA-BR-6707	resistant
-STAD_Fluorouracil	TCGA-CD-8524	resistant
-STAD_Fluorouracil	TCGA-CG-5717	resistant
-STAD_Fluorouracil	TCGA-BR-8297	resistant
-STAD_Fluorouracil	TCGA-CG-5732	resistant
-STAD_Fluorouracil	TCGA-D7-A748	resistant
-STAD_Fluorouracil	TCGA-3M-AB47	resistant
-STAD_Fluorouracil	TCGA-VQ-A91V	resistant
-STAD_Fluorouracil	TCGA-VQ-A91Y	resistant
-STAD_Fluorouracil	TCGA-VQ-A922	resistant
-STAD_Fluorouracil	TCGA-VQ-A94O	resistant
-STAD_Fluorouracil	TCGA-VQ-A94R	resistant
-STAD_Fluorouracil	TCGA-VQ-AA6F	resistant
-STAD_Fluorouracil	TCGA-VQ-AA6G	resistant
-STAD_Fluorouracil	TCGA-VQ-AA6K	resistant
-STAD_Fluorouracil	TCGA-VQ-A8DU	resistant
-STAD_Fluorouracil	TCGA-VQ-A8DZ	resistant
-STAD_Fluorouracil	TCGA-VQ-A8E0	resistant
-STAD_Fluorouracil	TCGA-VQ-A91N	resistant
-STAD_Fluorouracil	TCGA-VQ-A8PD	resistant
-STAD_Fluorouracil	TCGA-VQ-A8PP	resistant
-STAD_Fluorouracil	TCGA-VQ-A91D	resistant
-STAD_Fluorouracil	TCGA-VQ-A928	resistant
-STAD_Fluorouracil	TCGA-D7-6520	resistant
+condition	patient
+BLCA_Cisplatin	TCGA-FD-A3SQ
+BLCA_Cisplatin	TCGA-FD-A3SJ
+BLCA_Cisplatin	TCGA-FD-A3SO
+BLCA_Cisplatin	TCGA-G2-AA3C
+BLCA_Cisplatin	TCGA-DK-AA6P
+BLCA_Cisplatin	TCGA-BT-A20N
+BLCA_Cisplatin	TCGA-DK-A3WX
+BLCA_Cisplatin	TCGA-FJ-A871
+BLCA_Cisplatin	TCGA-G2-A2EJ
+BLCA_Cisplatin	TCGA-DK-A3IV
+BLCA_Cisplatin	TCGA-GV-A40E
+BLCA_Cisplatin	TCGA-DK-A1A7
+BLCA_Cisplatin	TCGA-XF-A9SV
+BLCA_Cisplatin	TCGA-DK-AA6S
+BLCA_Cisplatin	TCGA-G2-A3IB
+BLCA_Cisplatin	TCGA-G2-A2EK
+BLCA_Cisplatin	TCGA-ZF-AA5H
+BLCA_Cisplatin	TCGA-XF-A9SU
+BLCA_Cisplatin	TCGA-G2-A3IE
+BLCA_Cisplatin	TCGA-UY-A78L
+BLCA_Gemcitabine	TCGA-G2-AA3C
+BLCA_Gemcitabine	TCGA-FD-A3SQ
+BLCA_Gemcitabine	TCGA-K4-A83P
+BLCA_Gemcitabine	TCGA-FD-A3SJ
+BLCA_Gemcitabine	TCGA-XF-A9SV
+BLCA_Gemcitabine	TCGA-FD-A3SO
+BLCA_Gemcitabine	TCGA-XF-A9SU
+BLCA_Gemcitabine	TCGA-DK-A3IV
+BLCA_Gemcitabine	TCGA-DK-A6B2
+BLCA_Gemcitabine	TCGA-GV-A3QI
+BLCA_Gemcitabine	TCGA-GU-A42R
+BLCA_Gemcitabine	TCGA-FJ-A871
+BLCA_Gemcitabine	TCGA-DK-A3IQ
+BLCA_Gemcitabine	TCGA-FD-A62S
+BLCA_Gemcitabine	TCGA-GV-A3QH
+BLCA_Gemcitabine	TCGA-DK-AA6R
+BLCA_Gemcitabine	TCGA-DK-AA6W
+BLCA_Gemcitabine	TCGA-UY-A78L
+BLCA_Gemcitabine	TCGA-DK-A3WX
+BLCA_Gemcitabine	TCGA-XF-A9SX
+BLCA_Gemcitabine	TCGA-DK-A3IU
+BLCA_Gemcitabine	TCGA-XF-A9SY
+BLCA_Gemcitabine	TCGA-ZF-AA5H
+BLCA_Gemcitabine	TCGA-GV-A3QF
+BLCA_Gemcitabine	TCGA-DK-AA6P
+BLCA_Gemcitabine	TCGA-BT-A20N
+BLCA_Gemcitabine	TCGA-BT-A20T
+BLCA_Gemcitabine	TCGA-GV-A40E
+COAD_Fluorouracil	TCGA-AA-3973
+COAD_Fluorouracil	TCGA-AA-3692
+COAD_Fluorouracil	TCGA-AA-A02K
+COAD_Fluorouracil	TCGA-AA-3844
+COAD_Fluorouracil	TCGA-AA-3972
+COAD_Fluorouracil	TCGA-AZ-6600
+COAD_Fluorouracil	TCGA-AZ-4682
+COAD_Fluorouracil	TCGA-AZ-6606
+COAD_Fluorouracil	TCGA-A6-A565
+COAD_Fluorouracil	TCGA-NH-A50U
+COAD_Fluorouracil	TCGA-NH-A8F8
+COAD_Fluorouracil	TCGA-NH-A6GB
+COAD_Leucovorin	TCGA-AA-3680
+COAD_Leucovorin	TCGA-AA-3973
+COAD_Leucovorin	TCGA-AA-3844
+COAD_Leucovorin	TCGA-AA-3692
+COAD_Leucovorin	TCGA-AZ-4682
+COAD_Leucovorin	TCGA-AA-3972
+COAD_Leucovorin	TCGA-AA-A02K
+COAD_Leucovorin	TCGA-NH-A6GB
+COAD_Leucovorin	TCGA-A6-A566
+COAD_Leucovorin	TCGA-A6-5664
+COAD_Leucovorin	TCGA-A6-A565
+COAD_Leucovorin	TCGA-AZ-6600
+COAD_Leucovorin	TCGA-A6-2671
+COAD_Leucovorin	TCGA-CM-4748
+LGG_Temozolomide	TCGA-DB-A4XB
+LGG_Temozolomide	TCGA-DB-A4XF
+LGG_Temozolomide	TCGA-DB-A64O
+LGG_Temozolomide	TCGA-DB-A64V
+LGG_Temozolomide	TCGA-DB-A64W
+LGG_Temozolomide	TCGA-DB-A64X
+LGG_Temozolomide	TCGA-E1-A7YK
+LGG_Temozolomide	TCGA-E1-A7YL
+LGG_Temozolomide	TCGA-DH-A7UT
+LGG_Temozolomide	TCGA-DH-A7UU
+LGG_Temozolomide	TCGA-DH-A7UV
+LGG_Temozolomide	TCGA-E1-A7YM
+LGG_Temozolomide	TCGA-FG-A70Y
+LGG_Temozolomide	TCGA-DU-A5TS
+LGG_Temozolomide	TCGA-VM-A8CF
+LGG_Temozolomide	TCGA-HT-8564
+LGG_Temozolomide	TCGA-FG-5963
+LGG_Temozolomide	TCGA-E1-A7YW
+LGG_Temozolomide	TCGA-FG-A6J3
+LGG_Temozolomide	TCGA-VV-A829
+LGG_Temozolomide	TCGA-HT-A5RC
+LGG_Temozolomide	TCGA-FG-6689
+LGG_Temozolomide	TCGA-HT-8013
+LGG_Temozolomide	TCGA-WH-A86K
+LGG_Temozolomide	TCGA-S9-A7R1
+LGG_Temozolomide	TCGA-S9-A6TS
+LGG_Temozolomide	TCGA-S9-A7R8
+LGG_Temozolomide	TCGA-S9-A6TV
+LGG_Temozolomide	TCGA-QH-A65X
+LGG_Temozolomide	TCGA-QH-A6X8
+LGG_Temozolomide	TCGA-QH-A6XC
+LGG_Temozolomide	TCGA-QH-A6X4
+LGG_Temozolomide	TCGA-DU-A5TU
+LGG_Temozolomide	TCGA-DU-A5TP
+LGG_Temozolomide	TCGA-HW-8321
+LGG_Temozolomide	TCGA-KT-A74X
+LGG_Temozolomide	TCGA-DU-8165
+LGG_Temozolomide	TCGA-DU-8166
+LGG_Temozolomide	TCGA-DU-8168
+LGG_Temozolomide	TCGA-DU-8163
+LGG_Temozolomide	TCGA-HW-A5KK
+LGG_Temozolomide	TCGA-KT-A7W1
+LGG_Temozolomide	TCGA-DU-8162
+LGG_Temozolomide	TCGA-S9-A7R4
+LGG_Temozolomide	TCGA-VM-A8C8
+LGG_Temozolomide	TCGA-DU-A76K
+LGG_Temozolomide	TCGA-S9-A89Z
+LGG_Temozolomide	TCGA-DH-A66B
+LGG_Temozolomide	TCGA-DH-A66D
+LGG_Temozolomide	TCGA-QH-A6CY
+LGG_Temozolomide	TCGA-S9-A6WN
+LGG_Temozolomide	TCGA-S9-A7J0
+LGG_Temozolomide	TCGA-S9-A7QY
+LGG_Temozolomide	TCGA-S9-A6TW
+LGG_Temozolomide	TCGA-HW-7487
+LGG_Temozolomide	TCGA-TM-A84B
+LGG_Temozolomide	TCGA-S9-A7QW
+LGG_Temozolomide	TCGA-S9-A6WM
+LGG_Temozolomide	TCGA-S9-A6WG
+LGG_Temozolomide	TCGA-TM-A84C
+LGG_Temozolomide	TCGA-S9-A6TY
+LGG_Temozolomide	TCGA-QH-A65R
+LGG_Temozolomide	TCGA-QH-A6CS
+LUAD_Carboplatin	TCGA-50-6595
+LUAD_Carboplatin	TCGA-55-6712
+LUAD_Carboplatin	TCGA-50-5066
+LUAD_Carboplatin	TCGA-73-A9RS
+LUAD_Carboplatin	TCGA-95-A4VP
+LUAD_Carboplatin	TCGA-55-6979
+LUAD_Carboplatin	TCGA-55-8615
+LUAD_Carboplatin	TCGA-55-7227
+LUAD_Carboplatin	TCGA-50-5072
+LUAD_Carboplatin	TCGA-93-A4JN
+LUAD_Carboplatin	TCGA-J2-8194
+LUAD_Carboplatin	TCGA-55-7914
+LUAD_Carboplatin	TCGA-69-7974
+LUAD_Carboplatin	TCGA-50-5055
+LUAD_Carboplatin	TCGA-53-7813
+LUAD_Carboplatin	TCGA-NJ-A7XG
+LUAD_Carboplatin	TCGA-53-7624
+LUAD_Paclitaxel	TCGA-50-5055
+LUAD_Paclitaxel	TCGA-73-A9RS
+LUAD_Paclitaxel	TCGA-53-7813
+LUAD_Paclitaxel	TCGA-50-5068
+LUAD_Paclitaxel	TCGA-50-5072
+LUAD_Paclitaxel	TCGA-55-8615
+LUAD_Paclitaxel	TCGA-50-5066
+LUAD_Paclitaxel	TCGA-95-A4VP
+LUAD_Paclitaxel	TCGA-55-6979
+LUAD_Paclitaxel	TCGA-55-6712
+LUAD_Paclitaxel	TCGA-50-5936
+LUAD_Pemetrexed	TCGA-55-8615
+LUAD_Pemetrexed	TCGA-55-7914
+LUAD_Pemetrexed	TCGA-55-7281
+LUAD_Pemetrexed	TCGA-95-A4VK
+LUAD_Pemetrexed	TCGA-55-A48Z
+LUAD_Pemetrexed	TCGA-50-5055
+LUAD_Pemetrexed	TCGA-73-A9RS
+LUAD_Pemetrexed	TCGA-53-7624
+LUAD_Pemetrexed	TCGA-69-7974
+LUAD_Pemetrexed	TCGA-NJ-A7XG
+LUAD_Pemetrexed	TCGA-69-A59K
+PAAD_Gemcitabine	TCGA-2L-AAQA
+PAAD_Gemcitabine	TCGA-2L-AAQE
+PAAD_Gemcitabine	TCGA-2L-AAQI
+PAAD_Gemcitabine	TCGA-2L-AAQJ
+PAAD_Gemcitabine	TCGA-HZ-A9TJ
+PAAD_Gemcitabine	TCGA-IB-7644
+PAAD_Gemcitabine	TCGA-3A-A9I9
+PAAD_Gemcitabine	TCGA-IB-7889
+PAAD_Gemcitabine	TCGA-3A-A9IH
+PAAD_Gemcitabine	TCGA-XD-AAUG
+PAAD_Gemcitabine	TCGA-3A-A9IZ
+PAAD_Gemcitabine	TCGA-3A-A9J0
+PAAD_Gemcitabine	TCGA-HZ-8317
+PAAD_Gemcitabine	TCGA-FB-A5VM
+PAAD_Gemcitabine	TCGA-HZ-A77O
+PAAD_Gemcitabine	TCGA-IB-7891
+PAAD_Gemcitabine	TCGA-IB-A5SO
+PAAD_Gemcitabine	TCGA-HZ-A49G
+PAAD_Gemcitabine	TCGA-RB-AA9M
+PAAD_Gemcitabine	TCGA-US-A774
+PAAD_Gemcitabine	TCGA-IB-A5SP
+PAAD_Gemcitabine	TCGA-XD-AAUI
+PAAD_Gemcitabine	TCGA-IB-A7LX
+PAAD_Gemcitabine	TCGA-IB-AAUO
+PAAD_Gemcitabine	TCGA-IB-8126
+PAAD_Gemcitabine	TCGA-LB-A9Q5
+PAAD_Gemcitabine	TCGA-HV-AA8X
+PAAD_Gemcitabine	TCGA-F2-A8YN
+SARC_Docetaxel	TCGA-3B-A9HR
+SARC_Docetaxel	TCGA-DX-A8BV
+SARC_Docetaxel	TCGA-DX-A6YX
+SARC_Docetaxel	TCGA-K1-A3PN
+SARC_Docetaxel	TCGA-DX-A8BU
+SARC_Docetaxel	TCGA-3B-A9HL
+SARC_Docetaxel	TCGA-X9-A971
+SARC_Docetaxel	TCGA-3B-A9I0
+SARC_Docetaxel	TCGA-3B-A9HV
+SARC_Docetaxel	TCGA-X6-A8C4
+SARC_Docetaxel	TCGA-FX-A48G
+SARC_Docetaxel	TCGA-DX-A3UC
+SARC_Docetaxel	TCGA-IE-A3OV
+SARC_Docetaxel	TCGA-3B-A9HP
+SARC_Docetaxel	TCGA-DX-A3LU
+SKCM_Dacarbazine	TCGA-W3-AA1O
+SKCM_Dacarbazine	TCGA-EE-A29V
+SKCM_Dacarbazine	TCGA-EE-A3JI
+SKCM_Dacarbazine	TCGA-EE-A2MD
+SKCM_Dacarbazine	TCGA-EE-A29Q
+SKCM_Dacarbazine	TCGA-EE-A2MQ
+SKCM_Dacarbazine	TCGA-EE-A185
+SKCM_Dacarbazine	TCGA-EB-A5FP
+SKCM_Dacarbazine	TCGA-GN-A8LK
+SKCM_Dacarbazine	TCGA-HR-A2OH
+SKCM_Dacarbazine	TCGA-EE-A2ML
+SKCM_Dacarbazine	TCGA-ER-A19H
+SKCM_Dacarbazine	TCGA-FS-A4F0
+SKCM_Dacarbazine	TCGA-FS-A1ZE
+STAD_Cisplatin	TCGA-HU-A4GX
+STAD_Cisplatin	TCGA-CD-8527
+STAD_Cisplatin	TCGA-CD-8524
+STAD_Cisplatin	TCGA-BR-8371
+STAD_Cisplatin	TCGA-CG-5717
+STAD_Cisplatin	TCGA-CG-4477
+STAD_Cisplatin	TCGA-CG-5724
+STAD_Cisplatin	TCGA-VQ-A91V
+STAD_Cisplatin	TCGA-CG-5732
+STAD_Cisplatin	TCGA-D7-A747
+STAD_Cisplatin	TCGA-D7-6520
+STAD_Fluorouracil	TCGA-BR-8371
+STAD_Fluorouracil	TCGA-CG-4477
+STAD_Fluorouracil	TCGA-BR-6707
+STAD_Fluorouracil	TCGA-CD-8524
+STAD_Fluorouracil	TCGA-CG-5717
+STAD_Fluorouracil	TCGA-BR-8297
+STAD_Fluorouracil	TCGA-CG-5732
+STAD_Fluorouracil	TCGA-D7-A748
+STAD_Fluorouracil	TCGA-3M-AB47
+STAD_Fluorouracil	TCGA-VQ-A91V
+STAD_Fluorouracil	TCGA-VQ-A91Y
+STAD_Fluorouracil	TCGA-VQ-A922
+STAD_Fluorouracil	TCGA-VQ-A94O
+STAD_Fluorouracil	TCGA-VQ-A94R
+STAD_Fluorouracil	TCGA-VQ-AA6F
+STAD_Fluorouracil	TCGA-VQ-AA6G
+STAD_Fluorouracil	TCGA-VQ-AA6K
+STAD_Fluorouracil	TCGA-VQ-A8DU
+STAD_Fluorouracil	TCGA-VQ-A8DZ
+STAD_Fluorouracil	TCGA-VQ-A8E0
+STAD_Fluorouracil	TCGA-VQ-A91N
+STAD_Fluorouracil	TCGA-VQ-A8PD
+STAD_Fluorouracil	TCGA-VQ-A8PP
+STAD_Fluorouracil	TCGA-VQ-A91D
+STAD_Fluorouracil	TCGA-VQ-A928
+STAD_Fluorouracil	TCGA-D7-6520
