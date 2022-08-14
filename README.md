@@ -7,9 +7,9 @@ differential_exp.r: The function for identifying DEGs.
 
 differential_mutation.r: The function for identifying differential mutations.
 
-specific_network.r: The function for constructing individual-specific network.
-
 genetic_algorithm.r: The pipeline for genetic algorithm used in this study.
+
+specific_network.r: The function for constructing individual-specific network.
 
 example.r: Taking the condition LGG_Temezolomide as an example to identify driver genes based on DRdriver.r, users can changing the condition to obtain the driver genes of other conditions.
 
