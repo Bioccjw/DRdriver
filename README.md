@@ -11,7 +11,7 @@ specific_network.r: The function for constructing individual-specific network.
 
 genetic_algorithm.r: The pipeline for genetic algorithm used in this study.
 
-example.r: Taking the condition of LGG_Temezolomide as an example to identify driver genes based on DRdriver.r, users can changing the condition to obtain the driver genes of other condition.
+example.r: Taking the condition LGG_Temezolomide as an example to identify driver genes based on DRdriver.r, users can changing the condition to obtain the driver genes of other condition.
 
 patient_list.txt: The file contains the resistant sample IDs that can used for identifying driver genes. Several patients which who have too few overlapped genes in candidate genes and regulators or whose individual-specific network do not contain DEGs were deleted.
 
