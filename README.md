@@ -5,7 +5,7 @@ DRdriver.r: The main function for identifying drug resistance driver genes.
 
 differential_mutation.r: The function for identifying differential mutations.
 
-differential_expression.r: The function for identifying DEGs.
+differential_exp.r: The function for identifying DEGs.
 
 specific_network.r: The function for constructing individual-specific network.
 
