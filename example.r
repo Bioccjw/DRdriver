@@ -10,4 +10,4 @@ for(sample_ID in unique(LGG_patient[,2])){
     each_result <- DRdriver(sample_ID)
 	all_driver <- rbind(all_driver,each_result)
 }
-write.table(all_result,"driver.txt",col.names=T,row.names=F,sep="\t",quote=F)
+write.table(all_driver,"driver.txt",col.names=T,row.names=F,sep="\t",quote=F)
