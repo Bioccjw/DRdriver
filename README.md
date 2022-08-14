@@ -1,27 +1,22 @@
 # DRdriver
 This repository contains the files and scripts described in "DRdriver: identifying drug resistance driver genes using individual-specific gene regulatory network".
 
-differential_mutation.r: The script for identifying differential mutations.
+DRdriver.r: The main function for identifying drug resistance driver genes.
 
-differential_expression.r: The script for identifying DEGs.
+differential_mutation.r: The function for identifying differential mutations.
 
-specific_network.r: The script for constructing individual-specific network.
+differential_expression.r: The function for identifying DEGs.
+
+specific_network.r: The function for constructing individual-specific network.
 
 genetic_algorithm.r: The pipeline for genetic algorithm used in this study.
 
-DRdriver.r: The main script for identifying drug resistance driver genes.
+example.r: Taking the condition of LGG_Temezolomide as an example to identify driver genes based on DRdriver.r, users can changing the condition to obtain the driver genes of other condition.
 
+patient_list.txt: The file contains the resistant sample IDs that can used for identifying driver genes. Several patients which who have too few overlapped genes in candidate genes and regulators or whose individual-specific network do not contain DEGs were deleted.
 
-Taking the condition of LGG_Temezolomide as an example:
+GRN.txt: The file contains gene regulatory network. 
 
-sample_list.txt: The file contains the resistant sample IDs that can used for identifying driver genes. 8 samples (TCGA-VM-A8CE, TCGA-DB-A4XG, TCGA-DB-A64P, TCGA-FG-A710, TCGA-HT-7884, TCGA-HW-8320, TCGA-DU-A76R, TCGA-TM-A84L) who have too few intersected genes in candidate genes and regulators or whose individual-specific network do not contain DEGs were deleted. The users can get the corresponding information by providing the sample ID in corresponding script.
+Except the data of LGG_Temozolomide, the folder data contained all input data of 13 conditions.
 
-sensitive_mutation.txt and resistant_mutation.txt provide the mutation information for the condition. Before the users run the script of differential_mutation.r, they must load these two files first.
-
-sensitive_exp.txt and resistant_exp.txt provide the expression profiles for the condition. Before the users run the script of differential_expression.r, they must load these two files first.
-
-GRN.txt: The file contains gene regulatory network. This file must be loaded when the users run the script specific_network.r. Additionally, differential_mutation.r and differential_expression.r should be loaded before running specific_network.r, too.
-
-After loading all files and scripts provided, users can provide the sample ID to get the driver genes by running DRdriver.r.
-
-Since there were several random parameters in genetic algorithm, the results of different runs of the script might not be the same. But the similarity of them almost over 80%.
+Because there were several random parameters in genetic algorithm, such as mutation and crossover rate, the results of different runs were not the same. The similarity was almost over 90%.
