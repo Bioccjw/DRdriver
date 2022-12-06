@@ -1,7 +1,7 @@
 # DRdriver
 This repository contains the files and scripts described in "DRdriver: identifying drug resistance driver genes using individual-specific gene regulatory network".
 
-DRdriver.r: The main function for identifying drug resistance driver genes, which have already included all scripts for running the whole pipeline. We also provided the example.r as an example to run DRdriver.r. In example.r, we took the condition LGG_Temezolomide as an example to show how to get the driver genes based on DRdriver.r. Users can change the condition to obtain the driver genes of other conditions.
+DRdriver.r: The main function for identifying drug resistance driver genes, which have already included all scripts for running the whole pipeline. We also provided the example.r as an example to run DRdriver.r. In example.r, we took the condition LGG_Temozolomide as an example to show how to get the driver genes based on DRdriver.r. Users can change the condition to obtain the driver genes of other conditions.
 
 differential_exp.r: The function for identifying DEGs.
 
